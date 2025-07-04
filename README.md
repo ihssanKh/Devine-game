@@ -1,10 +1,10 @@
 # Devine-game
-🎮 Devine le Nombre
-Un petit jeu web en HTML, CSS et JavaScript où l'utilisateur doit deviner un nombre choisi aléatoirement par l'ordinateur entre 1 et 100.
+🎮 Guess the Number Game
+A small web game built with HTML, CSS, and JavaScript where the user tries to guess a number randomly selected by the computer between 1 and 100.
 
-✅ Technologies utilisées :
-
-HTML
-CSS (design responsive et dégradé de fond)
-JavaScript (logique du jeu)
-🚀 Ce projet m’a permis de pratiquer la manipulation du DOM, les événements, et la logique conditionnelle en JavaScript.
+✅ Technologies Used:
+HTML – for the structure
+CSS – for styling and layout
+JavaScript – for game logic and interactivity
+🚀 What I Learned:
+This project helped me practice DOM manipulation, event handling, and conditional logic in JavaScript.
