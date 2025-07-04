@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #667eea, #764ba2);
+    background: linear-gradient(to right, #ff9a9e, #fad0c4); /* rose clair */
+  color: #333; /* texte plus foncé */
+   /* linear-gradient(to right, #667eea, #764ba2); */
     color: white;
     text-align: center;
     padding-top: 50px;
