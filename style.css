@@ -1,28 +1,23 @@
 body {
-    font-family: Arial, sans-serif;
-    background:  linear-gradient(to right, #667eea, #764ba2);
-    /*linear-gradient(to right, #ff9a9e, #fad0c4); /* rose clair */
-  color: #333; /* texte plus foncé */
-   linear-gradient(to right, #667eea, #764ba2);
-    color: white;
-    text-align: center;
-    padding-top: 50px;
-    /*border: 5px solid red;*/
-  }
-  
-  .game-container {
-    background-color: rgba(0, 0, 0, 0.3);
-    padding: 30px;
-    border-radius: 10px;
-    width: 300px;
-    margin: auto;
-  }
-  
-  input {
-    padding: 10px;
-    width: 80%;
-    margin-bottom: 10px;
-    border: none;
-    border-radius: 5px;
-  }
-  
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.game-container {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  border-radius: 10px;
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+}
