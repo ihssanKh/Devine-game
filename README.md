@@ -6,5 +6,7 @@ A small web game built with HTML, CSS, and JavaScript where the user tries to gu
 HTML – for the structure
 CSS – for styling and layout
 JavaScript – for game logic and interactivity
+
+
 🚀 What I Learned:
 This project helped me practice DOM manipulation, event handling, and conditional logic in JavaScript.
